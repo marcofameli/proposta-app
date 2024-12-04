@@ -1,0 +1,3 @@
+[submodule "ms-notificacao"]
+	path = ms-notificacao
+	url = https://github.com/marcofameli/ms-notificacao
