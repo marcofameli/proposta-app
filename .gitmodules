@@ -1,3 +1,6 @@
 [submodule "ms-notificacao"]
 	path = ms-notificacao
 	url = https://github.com/marcofameli/ms-notificacao
+[submodule "ms-analisecredito"]
+	path = ms-analisecredito
+	url = https://github.com/marcofameli/ms-analisecredito.git
